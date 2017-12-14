@@ -2,6 +2,10 @@
 
 Web Application: Income and Expense Recording
 
+Please create your GitHub repo for make this web app with React + Redux and Node.js + any Database (such as MySQL, MongoDB, etc)
+
+After finish, send your repo to ak1103dev@gmail.com
+
 # Feature
 
 ## Auth
@@ -29,11 +33,3 @@ data that is collected
 
 ### Special
 You can add special feature that you think
-
-# Technology Stack
-
-## Frontend
-use React + Redux library
-
-## Backend
-use Node.js + any Database (such as MongoDB, MySQL, etc.)
