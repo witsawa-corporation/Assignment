@@ -32,7 +32,7 @@ data that is collected
 
 ## Duty
 
-### For Frontend Devleoper
+### For Frontend Developer
 
 make following with React and use API from the document <https://github.com/witsawa-corporation/assignment-backend>
 
