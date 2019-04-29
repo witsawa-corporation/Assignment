@@ -1,6 +1,6 @@
 # Assignment
 
-Web Application: Income and Expense Recording
+Web Application: **Income and Expense Recording**
 
 Please create your GitHub repo for make this web app with React and Node.js + any Database (such as MySQL, MongoDB, etc)
 
