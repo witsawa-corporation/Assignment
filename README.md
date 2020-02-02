@@ -1,3 +1,7 @@
+# Instruction
+
+Please read already before do the assignment
+
 # Assignment
 
 Web Application: **Income and Expense Recording**
@@ -48,7 +52,7 @@ make following with React and use API from the document <https://github.com/wits
 
   show list of income and expense daily (can see other day, default show today)
 
-- Other Page that you think that should
+- Other Page that you think
 
 ### For Backend Developer
 
@@ -57,7 +61,9 @@ see the repo <https://github.com/witsawa-corporation/assignment-backend> and mak
 - Refactor code
 - Authen and Security
 - Code standard (linter)
-- Can change database
+- Allow to use other database instead MongoDB
+- Allow to change schema
+- Other API that you think
 
 ## Special
 
