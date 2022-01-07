@@ -1,3 +1,5 @@
+# Assignment 2022
+
 # Instruction
 
 Please read already before do the assignment
@@ -8,7 +10,7 @@ Web Application: **Income and Expense Recording**
 
 Please create your GitHub repo for make this web app with React and Node.js + any Database (such as MySQL, MongoDB, etc)
 
-After finish, send your repo to apichan@witsawa.com
+After finish, send your repo and important materials to apichan@witsawa.com
 
 ## Feature
 
@@ -36,9 +38,9 @@ data that is collected
 
 ## Duty
 
-### For Frontend Developer
+### Frontend
 
-make following with React and use API from the document <https://github.com/witsawa-corporation/assignment-backend>
+make following with React and/or other library for helping you
 
 - Login Page
 
@@ -54,16 +56,16 @@ make following with React and use API from the document <https://github.com/wits
 
 - Other Page that you think
 
-### For Backend Developer
+### Backend
 
-see the repo <https://github.com/witsawa-corporation/assignment-backend> and make it complete with Node.js
+make API for supporting frontend with javascript or typescript that run on Node.js and design database for this app (You can use any framework and any database)
 
-- Refactor code
-- Authen and Security
-- Code standard (linter)
-- Allow to use other database instead MongoDB
-- Allow to change schema
-- Other API that you think
+## Materials that I want from you
+
+send the following to apichan@witsawa.com
+
+- repository url that there are your source code
+- Enitity Relationship Diagram (database design)
 
 ## Special
 
