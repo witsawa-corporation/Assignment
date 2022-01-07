@@ -1,16 +1,14 @@
 # Assignment 2022
 
-# Instruction
-
-Please read already before do the assignment
-
-# Assignment
-
 Web Application: **Income and Expense Recording**
 
 Please create your GitHub repo for make this web app with React and Node.js + any Database (such as MySQL, MongoDB, etc)
 
 After finish, send your repo and important materials to apichan@witsawa.com
+
+# Instruction
+
+Please read already before do the assignment
 
 ## Feature
 
